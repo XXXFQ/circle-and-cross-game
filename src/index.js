@@ -35,6 +35,7 @@ class Board extends React.Component {
         );
     }
 
+    // マス目を描画する
     render() {
         return (
             <div>
